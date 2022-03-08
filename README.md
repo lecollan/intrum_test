@@ -12,8 +12,6 @@ conda activate intrum
 
 pip install -r requirements.txt
 
-conda deactivate
-
 python -m ipykernel install --user --name intrum --display-name "intrum"
 
 Una vez creado el enviroment, instalado los paquetes y mostrado en jupyter, abrimos el jupyter desde la terminal con el siguiente comando:
