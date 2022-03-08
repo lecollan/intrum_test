@@ -1,10 +1,10 @@
 # intrum_test
 
-Repositorio para llevar a cabo el ejercicio práctico del master MINT (unav). Para ello será necesario realizar la siguiente instalacion
+Repository to carry out the Candidate Test Modelling for Intrum Senior Data Scientist position. In order to do so, the following installation is neeeded.
 
-En primer lugar instalar anaconda indivitual edition en la siguiente direccion: https://www.anaconda.com/products/individual
+First, install anaconda indivitual edition at the following address: https://www.anaconda.com/products/individual
 
-En segundo lugar, una vez instalado satisfactoriamente el conda, abrimos la terminal para instalar los paquetes y crear el environment.
+Secondly, once conda has been successfully installed, open the terminal to install the packages and create the environment.
 
 conda create -n intrum python=3.8
 
@@ -14,10 +14,10 @@ pip install -r requirements.txt
 
 python -m ipykernel install --user --name intrum --display-name "intrum"
 
-Una vez creado el enviroment, instalado los paquetes y mostrado en jupyter, abrimos el jupyter desde la terminal con el siguiente comando:
+Once the enviroment is created, packages installed and shown in jupyter, we open jupyter from the terminal with the following command:
 
 jupyter notebook
 
-Ejecutamos el jupyter notebook llamado: CandidateTestModelling.ipynb
+Run the jupyter notebook called: CandidateTestModelling.ipynb
 
-A disfrutar!!!
+Enjoy!!!
